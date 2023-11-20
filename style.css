@@ -1,0 +1,207 @@
+#container{
+    height: 1500px;
+    width: 1200px;
+    
+    border-style: ridge;
+    border-color: rgb(74, 229, 74);
+    border-width: 7px;
+    background-image: url(imege.jpg);
+}
+
+/*  */
+
+.myclass1{
+    height:100px;
+    width: 300px;
+   text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(235, 26, 26);
+    border-width: 5px;
+   font-size: 20px;
+   
+   margin-left: 60px;  
+   padding-top: 45px;
+   display: inline-block; 
+}
+
+#Navbar{
+       height: 50px;
+       width: 350px;
+       text-align: center;
+       display: inline-block;
+       background-color: black;
+       color: white;
+       border-radius: 20px;
+       border-style: solid;
+       border-color: rgb(235, 26, 26);
+       border-width: 5px;
+       font-size: 20px;
+     
+       margin-left: 60px;
+       padding-top: 20px;
+}
+.myclass2{
+    height:150px;
+    width: 300px;
+   text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(235, 26, 26);
+    border-width: 5px;
+   font-size: 20px;
+   margin-top: 20px;
+   margin-left: 60px;
+  
+   display: inline-block; 
+}
+
+.offer {
+    height: 350px;
+    width: 350px;
+    border: 5px solid grey;
+    border-radius: 50%;
+    background-color: teal;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 40px;
+    top: 300px;
+    
+    
+ 
+ }
+.myclass4{
+       background-color: white;
+       text-align: center;
+       height: 430px;
+       width: 250px;
+       font-weight: bold;
+       display: inline-block;
+       border-style: dashed;
+       border-color: rgb(218, 28, 28);
+       border-width: 5px;
+       color: red;
+       
+       margin-top: 50px;
+       margin-bottom: 50px;
+       margin-left: 500px;
+       
+      
+}
+.para{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+button{
+    background-color:  #f08844;
+}
+.myclass5{
+      height: 40px;
+      width: 350px;
+      text-align: center;
+       background-color: black;
+       color: white;
+       border-radius: 20px;
+       border-style: solid;
+       border-color: rgb(235, 26, 26);
+       border-width: 5px;
+       font-size: 20px;
+       margin-left: 450px;
+       padding-top: 10px;
+       font-size: x-large;
+       font-style: italic;
+}
+.myclass6{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.myclass7{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.myclass8{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.myclass9{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.myclass10{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.myclass11{
+    height: 250px;
+    width: 250px;
+    color: rgb(0, 21, 255);
+    background-color: aqua;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: green;
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
